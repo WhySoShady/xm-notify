@@ -10,6 +10,8 @@ client_scripts {
     'client/*.lua',
 }
 
+shared_scripts {'./config.lua'}
+
 files {
     'nui/nui.html',
     'nui/style.css',
