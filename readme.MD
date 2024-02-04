@@ -8,7 +8,7 @@ v1.0 2/3/2024
 
 ## Description
 
-This is a simple standalone notify script. I made this because I wanted to use my frontend web development skills for a game I like to script for.
+This is a simple standalone notify script. I made this because I wanted to use my frontend web development skills for a game I like to script for. I will eventually add more notification types and intergrate them with a chat script.
 
 Enjoy :D
 
