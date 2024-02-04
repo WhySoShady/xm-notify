@@ -1,6 +1,18 @@
 
 local function Notify(message, notifyType, length)
 
+    if Config.Core == 'ESX' then
+        if notifyType == true then
+            notifyType = 'success'
+        elseif notifyType == false or notifyType == 0 then
+            notifyType = 'error'
+        else
+            if type(notifyType) ~= "string" then
+                notifyType = "info"
+            end
+        end
+    end
+
     if message.length == 0 then
         message = "Placeholder"
     end
