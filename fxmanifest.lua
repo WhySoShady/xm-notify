@@ -10,10 +10,6 @@ client_scripts {
     'client/*.lua',
 }
 
-server_scripts {
-    'server/*.lua',
-}
-
 files {
     'nui/nui.html',
     'nui/style.css',
