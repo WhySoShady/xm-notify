@@ -24,7 +24,7 @@ function notify(text, type, duration) {
             title = 'Info!'
             break
         default:
-            type = "info"
+            type = "error"
             icon = 'fa-solid fa-circle-xmark'
             title = 'Error!'
             break
