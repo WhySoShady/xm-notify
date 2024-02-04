@@ -1,6 +1,6 @@
 # xm-notify
 
-![image|456x339](upload://6met6gFc0sYlfOC4oas8Lr3y8Jh.jpeg)
+![image|456x339](https://cdn.discordapp.com/attachments/1192156283294449748/1203604831764226098/3aozn7O6TPGrkWqO8MrzSfaR5JtflitUI54q9XGcaMCrOTi7b4tkgOtepCyvkh1zW5NVEP3oVdX1YJw8.png?ex=65d1b359&is=65bf3e59&hm=d63e221c7ec3d162a77abaa48123871c8052e1087c9a036631a1ee7e23a65dd9&)
 
 ### Version
 
