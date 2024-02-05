@@ -1,3 +1,8 @@
+/**
+ * @param {String} text - The description the notification displays
+ * @param {String} type - Error, Success, Info
+ * @param {integer} duration - The duration in seconds of the notificaion
+ */
 function notify(text, type, duration) {
 
     let n = document.querySelector('.notifications')
